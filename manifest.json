@@ -1,21 +1,21 @@
 {
-    "name": "flutter_sample",
-    "short_name": "flutter_sample",
+    "name": "Portfolio-Rahul",
+    "short_name": "Portfolio-Rahul webapp ",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "Portfolio-Rahul webapp ",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/Icon-192.png",
+            "src": "icons/rp.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "icons/Icon-512.png",
+            "src": "icons/rp.png",
             "sizes": "512x512",
             "type": "image/png"
         }
